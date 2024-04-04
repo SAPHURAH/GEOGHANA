@@ -43,6 +43,7 @@ plot_districts(gdf)
 ## Contributing
 
 We welcome contributions from the community, whether it's adding new features, improving documentation, or reporting bugs. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to this project.
+I'm just someone in a nuclear bunker puting my Python skills to use haha :D
 
 ## Support
 
