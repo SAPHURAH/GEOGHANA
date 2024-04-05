@@ -18,7 +18,7 @@ GeoGhana is an open-source Python library designed to simplify working with geos
 
 ### Prerequisites
 
-Ensure you have Python 3.x installed on your system. GeoGhana depends on GeoPandas, Fiona, and other geospatial libraries, which will be installed during the installation process.
+Ensure you have Python 3.11.x installed on your system. GeoGhana depends on GeoPandas, Fiona, and other geospatial libraries, which will be installed during the installation process.
 
 ### Installation
 
